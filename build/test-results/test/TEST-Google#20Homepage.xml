@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Google Homepage" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-05-15T22:21:18" hostname="Satyams-MacBook-Pro-2.local" time="3.113">
+  <properties/>
+  <testcase name="Check that main elements on Google Homepage are displayed" classname="Google Homepage" time="3.113"/>
+  <system-out><![CDATA[Search text box is displayed
+Google Search button is NOT displayed
+I'm Feeling Lucky button is NOT displayed
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 81.0.4044.138 (8c6c7ba89cc9453625af54f11fd83179e23450fa-refs/branch-heads/4044@{#999}) on port 29785
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+May 15, 2020 3:21:20 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+[1589581281.317][SEVERE]: Timed out receiving message from renderer: 0.100
+]]></system-err>
+</testsuite>
